@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview of the analysis
-W. Avy wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. I used SQLite, SQLAlchemy, and Flask to build a SQL database. I also wrote and executed Python code in a Jupyter notebook to create weather graphs.
+W. Avy wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. I used SQLite, SQLAlchemy, and Flask to build a SQL database. I also wrote and executed Python code in a Jupyter notebook to create weather tables.
 
 ## Results
  - Overall June has higher temperatures, which is to be expected. The average and high are both similar to Decembers.
